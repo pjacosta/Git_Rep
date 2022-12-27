@@ -8,6 +8,8 @@ int main()
   std::cout << "The answer to life, the universe, and everything is "
             << answer
             << std::endl;
-
+  std::cout << "The answer to life, the universe, and everything is "
+            << answer + 1
+            << std::endl;
   return 0;
 }
